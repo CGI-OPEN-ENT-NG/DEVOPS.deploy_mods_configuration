@@ -3,7 +3,7 @@ vertx_user: ong
 vertx_group: ong
 springboard_path: /appli/vertx3
 mods:
-  vie-scolaire:
+  "vie-scolaire":
     repository: https://github.com/OPEN-ENT-NG/vie-scolaire
     branch: dev
     prefix: fr.openent

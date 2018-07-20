@@ -13,4 +13,34 @@ mods:
     branch: push-notif
     prefix: net.atos
     version: 1.1.0
+  "timeline-generator"
+    repository: https://github.com/OPEN-ENT-NG/timeline-generator
+    branch: push-notif
+    prefix: net.atos
+    version: 1.0.0
+  "collaborative-editor"
+    repository: https://github.com/OPEN-ENT-NG/collaborative-editor
+    branch: push-notif
+    prefix: net.atos
+    version: 1.0.0
+  poll:
+    repository: https://github.com/OPEN-ENT-NG/poll
+    branch: push-notif
+    prefix: net.atos
+    version: 1.0.0
+  "share-big-files":
+    repository: https://github.com/OPEN-ENT-NG/share-big-files
+    branch: app-mobile
+    prefix: fr.openent
+    version: 1.0.0
+  "collaborative-wall":
+    repository: https://github.com/OPEN-ENT-NG/collaborative-wall
+    branch: push-notif
+    prefix: net.atos
+    version: 1.1-SNAPSHOT
+  mindmap:
+    repository: https://github.com/OPEN-ENT-NG/mindmap
+    branch: push-notif
+    prefix: net.atos
+    version: 1.1-SNAPSHOT
 ...

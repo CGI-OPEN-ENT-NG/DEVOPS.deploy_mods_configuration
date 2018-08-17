@@ -1,0 +1,16 @@
+---
+vertx_user: ong
+vertx_group: ong
+springboard_path: /appli/vertx3/springboard-vertx3
+mods:
+  viescolaire:
+    repository: https://github.com/OPEN-ENT-NG/vie-scolaire
+    branch: fix-master
+    prefix: fr.openent
+    version: 1.0.6
+  competences:
+    repository: https://github.com/OPEN-ENT-NG/competences
+    branch: fix-master
+    prefix: fr.openent
+    version: 1.0.6
+...

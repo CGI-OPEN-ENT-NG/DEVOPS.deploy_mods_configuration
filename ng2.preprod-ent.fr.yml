@@ -1,7 +1,7 @@
 ---
 vertx_user: ong
 vertx_group: ong
-springboard_path: /appli/vertx3/springboard-vertx3
+springboard_path: /appli/springboard-ent77
 mods:
   viescolaire:
     repository: https://github.com/OPEN-ENT-NG/vie-scolaire
@@ -13,4 +13,12 @@ mods:
     branch: dev
     prefix: fr.openent
     version: 1.2-SNAPSHOT
+<<<<<<< fa5499db5f64821afdbd89bbf26e9d194d16295a:ng2.yml
+=======
+  presences:
+    repository: https://github.com/OPEN-ENT-NG/presences
+    branch: dev
+    prefix: fr.openent
+    version: 1.1-SNAPSHOT
+>>>>>>> :rocket: Fix server configuration:ng2.preprod-ent.fr.yml
 ...
